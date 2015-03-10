@@ -1,0 +1,3 @@
+This program will create one or more mutex as specified by the passed arguments and keep them active as long as the program keeps running.
+
+Usage: create_mutex.exe [mutex 1] [mutex 2] [mutex 3] ...
